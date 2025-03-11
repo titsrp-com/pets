@@ -4,7 +4,7 @@ This respository contains a base framework for building a companion / pet for th
 New pets must be submitted via pull request to `/pets/<pet_id>.lua`
 
 ## Available Sounds
-- **PET_SOUND.Hit** = pet is shot
+- **PET_SOUND.Hit** = pet is hit
 - **PET_SOUND.Spawn** = pet initial spawn
 - **PET_SOUND.Death** = owner died
 - **PET_SOUND.KilledPlayer** = owner killed player
